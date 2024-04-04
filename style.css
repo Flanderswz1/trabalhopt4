@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cabeçalho{
+    background-color: #7594c5;
+    color: rgb(238, 187, 110);
+    display: flex;
+    justify-content: space-around;
+}
+
+.cabeçalho-imagem{
+    width: 0,01%;
+background-color: #7594c5;
+}
+.cabeçalho-lita-item{
+    display: inline-block;
+    margin: 0 16px;
+}
+.cabeçalho-imagem{
+    width: 3
+    0%; 
+}
+.texto1{
+
+}
+.texto2{
+    
+}
