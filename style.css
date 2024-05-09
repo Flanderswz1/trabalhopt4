@@ -8,23 +8,32 @@
     color: rgb(238, 187, 110);
     display: flex;
     justify-content: space-around;
+    text-align: center;
 }
 
-.cabeçalho-imagem{
+.cabeçalho-imagem1{
     width: 0,01%;
 background-color: #7594c5;
+text-align: center;
 }
 .cabeçalho-lita-item{
     display: inline-block;
     margin: 0 16px;
+    text-align: center;
 }
-.cabeçalho-imagem{
-    width: 3
-    0%; 
+.cabeçalho-imagem2{
+   position: absolute;
+   left: 50%;
+   transform: translate(-50%);
+   top: 500px;
 }
-.texto1{
+.texto-um{
+    text-align: center;
 
 }
-.texto2{
+.texto-dois{
+    text-align: center;
     
 }
+
+
